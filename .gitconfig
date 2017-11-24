@@ -1,0 +1,7 @@
+[user]
+	name = KID
+	email = jyhsu2000@gmail.com
+[alias]
+	tree = log --graph --pretty=format:'%C(yellow)%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+[push]
+	default = simple
