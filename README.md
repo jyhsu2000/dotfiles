@@ -1,5 +1,11 @@
 # dotfiles
 
+## Requirements
+- zsh
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- tmux >= 2.1
+- [.tmux](https://github.com/gpakosz/.tmux)
+
 ## Setup
 ```bash
 cd
