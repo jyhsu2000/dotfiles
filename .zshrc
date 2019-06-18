@@ -86,6 +86,11 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias www="cd /var/www"
 
+# Key binding
 bindkey '^[[1~' beginning-of-line
 bindkey '^[[4~' end-of-line
+
+# Editor setting
+export VISUAL=vim
+export EDITOR="$VISUAL"
 
